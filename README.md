@@ -1,2 +1,2 @@
 # angular-http-testing
-Angular http testing sample.
+Angular http testing sample. Very simple.
